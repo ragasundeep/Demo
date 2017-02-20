@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BCCC-3EB7
+
+ Directory of C:\Work\DevOps\gitrepos\demo1
+
+02/20/2017  02:43 PM    <DIR>          .
+02/20/2017  02:43 PM    <DIR>          ..
+02/20/2017  12:27 PM               350 a.txt
+02/20/2017  02:43 PM                 0 b.txt
+02/20/2017  12:46 PM    <DIR>          Demo
+02/20/2017  12:44 PM                 9 README.md
+               3 File(s)            359 bytes
+               3 Dir(s)  928,628,797,440 bytes free
